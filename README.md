@@ -49,3 +49,7 @@ game scores, class list, and our math questions. This gave me opportunities to s
 skills used in software development, as well as providing an opportunity to learn what it's like to
 work with a team of developers, how to plan how you're going to develop software, and how to
 organize your work output as a team.
+
+# Utah Pride Center Web Application
+Working for a local organization was a great opportunity to work with a real client and deliver
+a product that meets their requirements,
