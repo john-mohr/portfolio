@@ -20,7 +20,8 @@ to communicate using different application, and it was important that we communi
 one another in a professional and well understood manner to properly convey complex computer science topics.
 As for the Computer Science Departments goals I think it gave a great opportunity to learn how to work as
 a team and as an individual, it was important that our applications used the same standard we had created in 
-class.
+class, without this it would not have worked. It also gave me a chance to explore a topic I felt less
+knowledgable about, helping me build a better understanding of how computers communicate and work as whole.
 
 # Pacman Project
 I chose this project because this is one of the more cohesive collections of assignments I have,
