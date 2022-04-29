@@ -1,0 +1,1 @@
+{"name":"League bot","version":"1.0.0","description":"League bot","main":"bot.js","author":"John David Mohr","dependencies":{"cross-fetch":"^3.1.4","discord.io":"https://github.com/woor/discord.io/tarball/gateway_v6","discord.js":"^13.6.0","node-fetch":"^3.1.0","request":"^2.88.2","winston":"^3.3.3"}}
