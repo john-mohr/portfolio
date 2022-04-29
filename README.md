@@ -52,4 +52,9 @@ organize your work output as a team.
 
 # Utah Pride Center Web Application
 Working for a local organization was a great opportunity to work with a real client and deliver
-a product that meets their requirements,
+a product that meets their requirements. Working with design students was a great way to work 
+with others who have a different set of skills and knowledge. We had to deliver a product that
+was secure because we were dealing with sensitive information and it had to be inclusive and 
+respectful for users. This I believe satisfied Westminsters learning goal of global responsibility,
+collaboration, and communication. For the the computer science learning goals it helped me grow 
+my knowledge of software design.
