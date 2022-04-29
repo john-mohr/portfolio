@@ -31,6 +31,15 @@ without the extra baggage of java syntax. These three assignments gave me a chan
 about search algorithms, simple intelligent agents, develop more complex algorithms, and use
 my already existing skills to solve the problem at hand.
 
+# Senior Project
+For my senior project I chose to create a Discord bot that can be used to extract statistics through the
+League of Legends API and then sending those in-game statistics in the form of an embedded message,
+allowing users to see how they can improve their gameplay. It was a great project that worked with
+technologies I was interested in learning. It also taught me the value of working with a team vs.
+individually, I enjoyed working on my own but with other people problem solving and collaboration
+help to create a better and more fleshed out project. This also taught me more about software design, 
+something I enjoy and any opportunity to learn more or new technologies is great.
+
 # Software Engineering Project
 This is my group project from Software Engineering. I chose this project because it was the
 largest and most challenging project I have completed thus far, and it was my first time working
